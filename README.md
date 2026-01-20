@@ -1,6 +1,6 @@
 This repository contains the code and data for the paper:
 
-> "Conformal Reliability Guarantees for Incomplete Multi-View Clustering with Missing Views"
+> Trustworthy Incomplete Multi-View Clustering with Conformal Reliability Guarantees"
 
 ✅ All code and data will be made publicly available **after the paper is published**.
 
